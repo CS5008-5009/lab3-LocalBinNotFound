@@ -64,7 +64,7 @@ Implement the following methods
 4. Print all the elements in the linked list.
 Output: 23, 52, 19, 9, 100
 
-<img width="615" alt="Screenshot 2023-06-01 at 9 47 59 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/4eef73ff-c5bb-4b56-9543-18cce0c67baa">
+<img width="605" alt="Screenshot 2023-06-01 at 10 17 17 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/da91333e-a5b5-4445-898b-263fb2cfd621">
 
 PART 2:
 Implement a doubly linked list using structures in C. 
@@ -126,7 +126,7 @@ Here, pointer of 9 should point to null.
 
 4. Print all the elements in the linked list in reverse order.
 Original linked list : 23 <--> 52 <--> 19 <--> 9 <--> 100
-Output - 100, 9, 19, 52, 23
+Output: 100, 9, 19, 52, 23
 
-<img width="620" alt="Screenshot 2023-06-01 at 9 57 18 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/31476938-7d05-4efc-821e-e4d9fe73a410">
+<img width="674" alt="Screenshot 2023-06-01 at 10 17 54 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/6865eccc-b12c-4332-8b7e-eb18ba84c02f">
 
