@@ -18,46 +18,46 @@ Implement the following methods
 
 2. Insert an element in the linked list. Use malloc to create a new node. Take input from the user. 
 
-a. Insert element in the middle of the linked list, position should be taken as an input from the user. 
-e.g. Insert 7 at position 3
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After insertion = 23 -> 52 -> 7 -> 19 -> 9 -> 100
+  a. Insert element in the middle of the linked list, position should be taken as an input from the user. 
+  e.g. Insert 7 at position 3
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After insertion = 23 -> 52 -> 7 -> 19 -> 9 -> 100
 
 <img width="614" alt="Screenshot 2023-06-01 at 9 44 57 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/08c42151-2b83-4278-83e4-1f2b129be0b8">
 
-b. Insert element at the head of the linked list. Head should point to the 'new' head. 
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After insertion: 7 -> 23 -> 52 -> 19 -> 9 -> 100
-Here, head should point to 7.
+  b. Insert element at the head of the linked list. Head should point to the 'new' head. 
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After insertion: 7 -> 23 -> 52 -> 19 -> 9 -> 100
+  Here, head should point to 7.
 
 <img width="608" alt="Screenshot 2023-06-01 at 9 44 25 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/57627791-4bf7-4922-ac8e-2180aca31159">
 
-c. Insert element at the end of the linked list 
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After insertion: 23 -> 52 -> 19 -> 9 -> 100 -> 7
+  c. Insert element at the end of the linked list 
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After insertion: 23 -> 52 -> 19 -> 9 -> 100 -> 7
 
 <img width="612" alt="Screenshot 2023-06-01 at 9 45 21 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/5cb0dacb-8630-4392-91ab-2204bdd6dc84">
  
 3. Delete element from the linked list.
 
-a. Delete element from the middle of the linked list
-e.g. Delete 19.
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After deletion = 23 -> 52 -> 9 -> 100
+  a. Delete element from the middle of the linked list
+  e.g. Delete 19.
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After deletion = 23 -> 52 -> 9 -> 100
 
  <img width="607" alt="Screenshot 2023-06-01 at 9 46 21 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/df5e0ebf-b029-4e1c-9e88-8b6ba9eb11a9">
 
-b. Delete head of the linked list
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After deletion = 52 -> 19 -> 9 -> 100
-Head points to 52.
+  b. Delete head of the linked list
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After deletion = 52 -> 19 -> 9 -> 100
+  Head points to 52.
 
  <img width="634" alt="Screenshot 2023-06-01 at 9 47 26 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/96b3cf8e-d564-4d73-8ece-64f13354ab29">
 
-c. Delete last element of the linked list
-Original linked list : 23 -> 52 -> 19 -> 9 -> 100
-After deletion = 23 -> 52 -> 19 -> 9 
-Here, pointer of 9 should point to null.
+  c. Delete last element of the linked list
+  Original linked list : 23 -> 52 -> 19 -> 9 -> 100
+  After deletion = 23 -> 52 -> 19 -> 9 
+  Here, pointer of 9 should point to null.
 
  <img width="609" alt="Screenshot 2023-06-01 at 9 46 50 AM" src="https://github.com/CS5008-5009/lab3-LocalBinNotFound/assets/129228556/59987cb7-ee2e-4f18-999e-673fc4339443">
 
